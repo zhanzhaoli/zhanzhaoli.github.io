@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhanzhao Li | Wowchemy Research Group</title>
+    <title>Zhanzhao Li</title>
     <link>https://zhanzhaoli.github.io/author/zhanzhao-li/</link>
       <atom:link href="https://zhanzhaoli.github.io/author/zhanzhao-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhanzhao Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhanzhaoli.github.io/author/zhanzhao-li/avatar_hu15f3f5bd7728b6f4ec898db0f6edf7cf_259349_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zhanzhao Li</title>
