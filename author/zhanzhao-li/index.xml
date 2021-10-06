@@ -5,12 +5,28 @@
     <link>https://zhanzhaoli.github.io/author/zhanzhao-li/</link>
       <atom:link href="https://zhanzhaoli.github.io/author/zhanzhao-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhanzhao Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhanzhaoli.github.io/author/zhanzhao-li/avatar_hu15f3f5bd7728b6f4ec898db0f6edf7cf_259349_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zhanzhaoli.github.io/media/icon_hu4c64519dbe1c0a53649ce42b9d8a69b8_1323238_512x512_fill_lanczos_center_3.png</url>
       <title>Zhanzhao Li</title>
       <link>https://zhanzhaoli.github.io/author/zhanzhao-li/</link>
     </image>
+    
+    <item>
+      <title>Towards 3D-printable cementitious materials on Earth and beyond</title>
+      <link>https://zhanzhaoli.github.io/publication/li-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhanzhaoli.github.io/publication/li-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fresh and hardened properties of extrusion-based 3D-printed cementitious materials: A review</title>
+      <link>https://zhanzhaoli.github.io/publication/li-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhanzhaoli.github.io/publication/li-2020/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
