@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Zhanzhao Li</title>
+    <link>https://zhanzhaoli.github.io/publications/</link>
+      <atom:link href="https://zhanzhaoli.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright>
+    <image>
+      <url>https://zhanzhaoli.github.io/media/icon_hu4c64519dbe1c0a53649ce42b9d8a69b8_1323238_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://zhanzhaoli.github.io/publications/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Negar Ashrafi | Zhanzhao Li</title>
+    <link>https://zhanzhaoli.github.io/author/negar-ashrafi/</link>
+      <atom:link href="https://zhanzhaoli.github.io/author/negar-ashrafi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Negar Ashrafi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhanzhaoli.github.io/media/icon_hu4c64519dbe1c0a53649ce42b9d8a69b8_1323238_512x512_fill_lanczos_center_3.png</url>
+      <title>Negar Ashrafi</title>
+      <link>https://zhanzhaoli.github.io/author/negar-ashrafi/</link>
+    </image>
+    
+    <item>
+      <title>Fresh and hardened properties of extrusion-based 3D-printed cementitious materials: A review</title>
+      <link>https://zhanzhaoli.github.io/publication/li-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhanzhaoli.github.io/publication/li-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
