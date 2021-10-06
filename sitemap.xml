@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhanzhaoli.github.io/unused/teaching/</loc>
+  </url><url>
+    <loc>https://zhanzhaoli.github.io/unused/affiliations/</loc>
+  </url><url>
     <loc>https://zhanzhaoli.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -98,6 +102,8 @@
     <loc>https://zhanzhaoli.github.io/categories/</loc>
   </url><url>
     <loc>https://zhanzhaoli.github.io/publications/</loc>
+  </url><url>
+    <loc>https://zhanzhaoli.github.io/unused/</loc>
   </url><url>
     <loc>https://zhanzhaoli.github.io/author/zhanzhao-li/</loc>
   </url>

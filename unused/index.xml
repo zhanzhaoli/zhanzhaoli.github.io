@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unuseds | Zhanzhao Li</title>
+    <link>https://zhanzhaoli.github.io/unused/</link>
+      <atom:link href="https://zhanzhaoli.github.io/unused/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unuseds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Zhanzhao Li</copyright>
+    <image>
+      <url>https://zhanzhaoli.github.io/media/icon_hu4c64519dbe1c0a53649ce42b9d8a69b8_1323238_512x512_fill_lanczos_center_3.png</url>
+      <title>Unuseds</title>
+      <link>https://zhanzhaoli.github.io/unused/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>https://zhanzhaoli.github.io/unused/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhanzhaoli.github.io/unused/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Materials Science for Civil Engineers (CE 336), The Pennsylvania State University, Spring 2020 &amp;amp; 2021&lt;/li&gt;
+&lt;li&gt;Introduction to BIM with Autodesk Revit, Harbin Institute of Technology, Sep 2017–Jun 2018&lt;/li&gt;
+&lt;li&gt;BIM Training, Harbin Institute of Technology, Jun 2017&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affiliations</title>
+      <link>https://zhanzhaoli.github.io/unused/affiliations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhanzhaoli.github.io/unused/affiliations/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;American Concrete Institute (ACI)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Voting Member of ACI Committee 201-0H ‘Aggregate Reactions’, 2020–Present&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
